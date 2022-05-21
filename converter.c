@@ -7,7 +7,6 @@
  * @lowercase: flag if hexa values need to be lowercase
  * Return: result string
  */
-//by chuka
 char *convert(unsigned long int num, int base, int lowercase)
 {
     static char *rep;
