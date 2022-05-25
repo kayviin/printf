@@ -1,7 +1,4 @@
 #include "main.h"
-#include <stdlib.h>
-#include <stdio.h>
-
 /**
  * _printf - is a function that formats and prints data
  * @format: format of data
